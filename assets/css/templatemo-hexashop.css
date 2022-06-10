@@ -2500,6 +2500,10 @@ responsive
     transform: translate(-50%,-50%);
     text-align: center;
   }
+  .header-area .main-nav .nav li a {
+    font-size: 12px;
+    letter-spacing: 0px;
+  }
   .subscribe form button {
     width: 100%;
   }
